@@ -6,14 +6,33 @@ using System.Threading.Tasks;
 
 namespace MathAdvancedCalculator
 {
-    class Program
+    class ImPar
     {
         static void Main(string[] args)
         {
+            //inserir um número para saber se é par ou ímpar
+            Console.WriteLine("Digite um número: ");
+            double VarA = Convert.ToDouble(Console.ReadLine());
 
 
+            //Realiza a operação de divisão
+            if (VarA % 2 == 0)
+            {
+                //Se o módulo for 0 o número é par
+                Console.WriteLine("O número é par");
 
+            }
+
+            else
+            {
+                //Se o módulo for 1 o número é ímpar
+                Console.WriteLine("O número é ímpar");
+
+            }
+
+            Console.ReadKey();
 
         }
+        
     }
 }
