@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatorial", "Fatorial\Fatorial.csproj", "{3BB7AFC1-6B8C-41EC-A8D7-E9EA7894DFCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Porcento", "10Porcento\10Porcento.csproj", "{020C0A11-C39F-4D0F-A16A-D7520AF8CDFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3BB7AFC1-6B8C-41EC-A8D7-E9EA7894DFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BB7AFC1-6B8C-41EC-A8D7-E9EA7894DFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BB7AFC1-6B8C-41EC-A8D7-E9EA7894DFCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020C0A11-C39F-4D0F-A16A-D7520AF8CDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020C0A11-C39F-4D0F-A16A-D7520AF8CDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020C0A11-C39F-4D0F-A16A-D7520AF8CDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020C0A11-C39F-4D0F-A16A-D7520AF8CDFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

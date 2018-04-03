@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//Programa para dizer se um número é par ou ímpar.
+
 namespace MathAdvancedCalculator
 {
     class ImPar
