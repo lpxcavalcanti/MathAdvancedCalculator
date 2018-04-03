@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//Código para realização da função Fatorial
+//Código para realização da função Fatorial.
+
 namespace Fatorial
 {
     class Program
